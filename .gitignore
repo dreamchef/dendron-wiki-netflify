@@ -4,5 +4,7 @@ build
 seeds
 .next
 docs
-
+vault/*.pdf
+vault/img
+vault/*.png
 .backup
