@@ -1,0 +1,19 @@
+---
+id: jzkt00q25djt3c3qyo6xmwx
+title: Light Model
+desc: ''
+updated: 1654530813187
+created: 1654530813187
+---
+#graphics #method
+describes the interaction between materials and light sources
+In general...
+
+$$A_I = \text{(ambient reflection)(ambient light intensity)}$$
+
+$$ D_I = \text{light intensity}( \text{diffuse reflection} * \text{(normal} \bullet \text{light direction))}$$
+
+$$S_I = \text{light intensity}(\text{spec. reflection} * (\text{normal} \bullet \text{halfway vector})^{\text{spec. exp.}})$$
+$$I = A_I + \Sigma (\text{light intensity})(D_I + S_I)$$
+
+Sum refers to more than one possible sources.

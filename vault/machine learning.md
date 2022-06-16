@@ -1,0 +1,9 @@
+---
+id: vae6n48o8vtaufqvblm3i9y
+title: Machine Learning
+desc: ''
+updated: 1654530813290
+created: 1654530813290
+---
+#algorithms #paradigm 
+algorithms programmed to learn and improve without the need for human data input and reprogramming
