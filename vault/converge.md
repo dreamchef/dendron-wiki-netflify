@@ -2,15 +2,14 @@
 id: hb614gflqsl5laf2mpsn5mr
 title: Converge
 desc: ''
-updated: 1654530812703
+updated: 1656448635725
 created: 1654530812703
 ---
 #analysis #definition 
-# converge
-1. (of a [[sequence]]), having a [[limit]] #todo
-2. (of an [[infinite series]], to $B$), its [[sequence of partial sums]] [[converge]]s to $B$
-## tests
-### for series
+1. *[[sequence]]*: having a [[limit]] #todo
+2. *[[infinite series]]*, $B$: the [[sequence of partial sums]] [[converge]]s to $B$
+
+# Tests of Convergence For Series
 - [[Cauchy Criterion]] for series
 - [[Cauchy Condensation Test]]
 - [[comparison test for series]]

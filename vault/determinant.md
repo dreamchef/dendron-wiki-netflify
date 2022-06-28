@@ -2,10 +2,10 @@
 id: od6jvg68rtn5e9984w4czvb
 title: Determinant
 desc: ''
-updated: 1654530812836
+updated: 1656450962726
 created: 1654530812836
 ---
-#linear-algebra #concept
+#linear-algebra
 only defined in terms of square matrices
 # Computation
 ## Triangular matrix
@@ -19,7 +19,7 @@ given a finite number of matrices $E_i$ such that
 $$E_kE_{k-1}...E_1A = U$$
 Based on [[determinant#^d0e945|determinant inverse theorem]], and the invertibility of elementary matrices #q what's happening this step
 $$det(A) = \frac{1}{det(E_1)det(E_2)...det(E_k)}$$
-# Statements
+# Properties
 ## Square matrix lemma
 Given a square, $n$ by $n$ matrix A
 1. Let $c \in R$, then det(cA) = $c^ndet(A)$

@@ -2,13 +2,14 @@
 id: luppcqjfqye3juy4tv7i4ym
 title: data definition language (DDL)
 desc: ''
-updated: 1654530812779
+updated: 1656449815987
 created: 1654530812779
 ---
 #databases #software-development 
 
 defines and modifies structures in a database
 
+# Operations
 | statement | description |
 |---|---|
 | `create database <database>` |

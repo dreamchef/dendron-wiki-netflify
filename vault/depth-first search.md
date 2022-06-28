@@ -2,13 +2,12 @@
 id: 3jzueoyfjf4q2zaxort4z19
 title: Depth First Search
 desc: ''
-updated: 1654530812824
+updated: 1656450972123
 created: 1654530812824
 ---
-#combinatorics #algorithms #method
-# Steps
-## Connectedness
-**Complexity**: $n^2 + n$
+#combinatorics #algorithms
+# For Connectedness
+Complexity is $n^2 + n$.
 1. ***Start*** from a random vertex.
 2. Go down a random path until reaching a vertex of whom all. neighbors are visited.
 3. Backtrack to a vertex with an unvisited neighbor.

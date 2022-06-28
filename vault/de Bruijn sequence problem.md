@@ -2,10 +2,11 @@
 id: l96wmjoa66yc2ui0vaaucnk
 title: de Bruijn sequence problem
 desc: ''
-updated: 1654530812801
+updated: 1656450016101
 created: 1654530812801
 ---
 #combinatorics  #problem
+
 Consider alphabet set $\Sigma$ and all words of length $n$ from $\Sigma$ (cardinality $|\Sigma|^n$). Create some sequence that contains every word at least once (wrap-around words allowed).
 # Solution
 1. Create a digraph D where
