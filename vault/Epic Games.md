@@ -2,12 +2,12 @@
 id: byqqg1a7qm0sc4ea2ywqx4t
 title: Epic Games
 desc: ''
-updated: 1654530811818
+updated: 1656452068951
 created: 1654530811818
 ---
 #enterprise 
 
-Game production and distribution, Unreal Engine, online services (i.e. multiplayer gaming)
+game production and distribution, Unreal Engine, online services (i.e. multiplayer gaming)
 
 # Listings
 - https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/Cary-NC/Gameplay-Programmer-Internship---Fortnite_R3074-2

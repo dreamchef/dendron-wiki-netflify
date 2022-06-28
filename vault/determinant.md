@@ -27,7 +27,7 @@ Given a square, $n$ by $n$ matrix A
 3. If any single row or single column of A is the zero vector, then det(A) = 0
 4. Let a new matrix C be created by swapping any two rows in A, then $det(C) = -det(A)$
 5. Let a new matrix D be created by swapping any two columns in A, then $det(D) = -det(A)$
-## [[elementary matrix]] lemma
+## [[Elementary Matrix]] lemma
 1. The determinant of a matrix that swaps two rows is -1.
 2. ...that multiplies a row by a scalar $c$ is $c$.
 3. ...that adds a multiple of one row to another row is 1.

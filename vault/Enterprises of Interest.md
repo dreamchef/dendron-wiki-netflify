@@ -2,10 +2,9 @@
 id: wsk4dl8j6imnm8sztln4rcp
 title: Enterprises of Interest
 desc: ''
-updated: 1654530811800
+updated: 1656452057891
 created: 1654530811800
 ---
-# List
 ## Media & SaaS
 - [x] [[Autodesk (ADSK)]]
 - [x] [[Adobe (ADBE)]]

@@ -2,11 +2,9 @@
 id: di2buamdbhlr5j38eiftede
 title: HeiDI
 desc: ''
-updated: 1654530811900
+updated: 1656452973019
 created: 1654530811900
 ---
-#psychology #model
-#todo
-A model for [[classical conditioning]]
+#psychology
 
-# Learning rules
+a model for [[classical conditioning]]

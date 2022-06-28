@@ -2,15 +2,17 @@
 id: as4w0mezyoolzy4az1alw78
 title: Euler's number
 desc: ''
-updated: 1654530811823
+updated: 1656452200098
 created: 1654530811823
 ---
-#analysis #definition 
-# Euler's number
-$$e = \lim_{n \rightarrow \infty} (1 + \frac{1}{n})^n = \sum_{n=0}^\infty \frac{1}{n!}$$
-## proof
-We begin by using the [[Monotone Convergence Theorem]].  When expanding using the [[binomial theorem]],
-$$a_n = (1 + \frac{1}{n})^n = \sum_{k=0}^n {n\choose k} \frac{1}{n^k} \tag{1}$$
+#analysis
+
+$e = \lim_{n \rightarrow \infty} (1 + \frac{1}{n})^n = \sum_{n=0}^\infty \frac{1}{n!}$
+
+*Proof:* We begin by using the Monotone Convergence Theorem.  Expanding using the Binomial Theorem,
+
+$$a_n = (1 + \frac{1}{n})^n = \sum_{k=0}^n {n\choose k} \frac{1}{n^k}$$
+
 Now observe that 
 
 

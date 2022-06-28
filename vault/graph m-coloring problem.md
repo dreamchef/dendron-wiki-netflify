@@ -2,24 +2,24 @@
 id: i1keaefyez693u2phoxc1rq
 title: Graph M Coloring Problem
 desc: ''
-updated: 1654530812991
+updated: 1656452796083
 created: 1654530812991
 ---
-#algorithms #combinatorics  #problem
-Find a way to color an indirected graph using ***at most*** m different colors, so that no two adjacent vertices are the same color
+#algorithms #combinatorics  
 
-# Duals
-- [[n-queens problem]]
+Find a way to color an indirected graph using ***at most*** m different colors, so that no two adjacent vertices are the same color.
+
+This problem has duality with the [[N-Queens Problem]].
 
 # Solutions
 ## [[backtracking]]
-**Intuition**
+### Intuition
 [[state space tree]] where...
 - each level represents a vertex in the actual graph
 - the tree's distinct vertices represent colors
 - the tree is pruned based on the existence of edges in the graph
 
-**Algorithm**
+### Algorithm
 ```
 void m_coloring (index i)
 {
@@ -49,5 +49,3 @@ bool promising (index i)
 	return switch;
 }
 ```
-**Complexity**
-#todo

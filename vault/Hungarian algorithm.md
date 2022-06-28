@@ -2,14 +2,16 @@
 id: rjg5ig8u2iizh20y000n2n6
 title: Hungarian algorithm
 desc: ''
-updated: 1654530811927
+updated: 1656453109482
 created: 1654530811927
 ---
 #combinatorics 
-Given a graph, find minimum weight [[matching]]
-# Psuedocode
-Input: n-by-n integer matrix C
-Output: A minimum-weight matching
+
+given a graph, finds the minimum weight [[matching]]
+# Pseudocode
+*Input:* n-by-n integer matrix C
+
+*Output:* A minimum-weight matching
 ```
 // Intialization
 // rows

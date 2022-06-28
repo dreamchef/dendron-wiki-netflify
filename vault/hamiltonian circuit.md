@@ -2,17 +2,12 @@
 id: xm2tiyrrsktctfp7c8gswt6
 title: Hamiltonian Circuit
 desc: ''
-updated: 1654530813011
+updated: 1656452946924
 created: 1654530813011
 ---
-#combinatorics  #todo
-# Existence
-- [[Dirac (11.8.1)]]
-- [[Bondy and Chavtal (11.8.3)]]
-- [[Bondy and Chavtal (11.8.2)]]
-- [[Ore (11.8)]]
+#combinatorics
 
-# Algorithm
+# Finding a Circuit
 ## [[backtracking]]
 ```
 if promising
