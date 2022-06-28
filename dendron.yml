@@ -94,10 +94,10 @@ publishing:
             - vault
     writeStubs: false
     seo:
-        title: Dendron Netlify Template
-        description: Personal knowledge space
+        title: Thought Garden
+        description: a cultivated knowledge ecosystem
     github:
-        enableEditLink: true
+        enableEditLink: false
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
