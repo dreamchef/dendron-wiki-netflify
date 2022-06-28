@@ -2,12 +2,11 @@
 id: 3b0egcgr0lnb4obtic46o20
 title: Branch and Bound
 desc: ''
-updated: 1654530812521
+updated: 1656443768387
 created: 1654530812521
 ---
 #algorithms #paradigm
-# Schema
-## Breadth-first-search
+# For Breadth-First Search
 ```
 void breadth_first_branch_and_bound (state_space_tree T, number& best)
 {
@@ -30,7 +29,7 @@ void breadth_first_branch_and_bound (state_space_tree T, number& best)
 }
 
 ```
-## Best-first-search
+# For [[Best-First Search]]
 ```
 void best_first_branch_and_bound (state_space_tree T, number& best)
 {
