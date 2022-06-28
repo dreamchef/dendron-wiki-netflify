@@ -2,10 +2,10 @@
 id: h8ldhapcomc9s1knca3e1zp
 title: Application Stack
 desc: ''
-updated: 1654530812402
+updated: 1656435256142
 created: 1654530812402
 ---
-#software-development #paradigm 
+#software-development
 
 # Front-End
 - presentation layer

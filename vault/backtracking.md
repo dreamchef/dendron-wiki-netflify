@@ -2,12 +2,13 @@
 id: tr4tq2s2befadrjwh40hnwp
 title: Backtracking
 desc: ''
-updated: 1654530812475
+updated: 1656436627552
 created: 1654530812475
 ---
-#algorithms #paradigm
-# Schema
-## General
+#algorithms
+
+a set of algorithms used to find, given a set of objects, a sequence of chosen objects that satisfies some criterion
+# Pseudocode
 ```
 void checknode (node v)
 {
@@ -21,8 +22,7 @@ void checknode (node v)
 				checknode(u);
 }
 ```
-## Optimization
-Perform algorithm on node, **then** check if it is promising to decide whether to perform algorithm on its children.
+In cases of optimization, perform algorithm on node, then check if it is promising to decide whether to perform algorithm on its children.
 ```
 void checknode (node v) {
 	
@@ -34,6 +34,3 @@ void checknode (node v) {
 			checknode(u)
 }
 ```
-
-# Problem features
-Given a set of objects, finding a sequence of chosen objects that satisfies some criterion.

@@ -2,10 +2,10 @@
 id: veh3lr77qfqxj8g7frglke3
 title: 0 1 Knapsack Problem
 desc: ''
-updated: 1654530900747
+updated: 1656431952639
 created: 1654530811533
 ---
-#algorithms #problem
+#algorithms
 # Problem
 Given a **set of items** with weights and values, choose a subset that does not exceed a **given weight**, while maximizing value.
 

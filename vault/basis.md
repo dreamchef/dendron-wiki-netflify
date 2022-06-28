@@ -2,11 +2,10 @@
 id: bxu5c4cvoghm7u7j2l3b3sq
 title: Basis
 desc: ''
-updated: 1654530812482
+updated: 1656436700561
 created: 1654530812482
 ---
-#linear-algebra #concept
-### Definition
+#linear-algebra
 Let 𝐵={𝒘⃑⃑⃑ 1,𝒘⃑⃑⃑ 2,⋯,𝒘⃑⃑⃑ 𝑘} be a set of vectors in a [[vector space]] 𝒲. The set 𝐵 is a [[basis]] for 𝒲 if 𝐵 is a spanning set for 𝒲 with the fewest number of elements in a spanning set for 𝒲. Therefore, a basis is a minimal [[span]]ning set.
 
 ## Statements

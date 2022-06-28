@@ -2,10 +2,10 @@
 id: akv6z6zkw4e6bayhuwadsnp
 title: Adobe (ADBE)
 desc: ''
-updated: 1654530811563
+updated: 1656434846373
 created: 1654530811563
 ---
-Developer of software used to create digital experiences and manage documents.
+developer of software used to create digital experiences and manage documents
 
 # Listings
 - Junior C++ Developer (6 months contract) (Bucharest)

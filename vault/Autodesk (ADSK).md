@@ -2,12 +2,12 @@
 id: 87nt3fblcqcd0iiemgsp7uf
 title: Autodesk (ADSK)
 desc: ''
-updated: 1654530811602
+updated: 1656436159755
 created: 1654530811602
 ---
 #enterprise #design
 
-Design and develop software for architecture, engineering, construction, manufacturing, and media and entertainment industries.
+designs and develops software for architecture, engineering, construction, manufacturing, and media and entertainment industries
 # Listings
 - Intern, Software Engineer
 	-   Ability to communicate with English speaking stakeholders
