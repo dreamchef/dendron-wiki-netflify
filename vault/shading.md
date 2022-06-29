@@ -2,27 +2,15 @@
 id: v0wv7eyvd2thmlu8pkn01k2
 title: Shading
 desc: ''
-updated: 1654530813739
+updated: 1656535917404
 created: 1654530813739
 ---
-#graphics #paradigm
-process of determining the color of a pixel
-# Material properties (parameters)
-- Surface color
-- Surface normal
-- Surface reflection properties
-#q what about roughness?
-# Light phenomena
-- [[light sources]]
-- [[reflection]]
-- [[refraction]]
-- [[attenuation]]
-# Computation
-- [[lighting calculation]]
+#graphics 
 
-# Lighting models
-- [[Phong shading]]
-- [[Gourad shading]]
-- [[Flat shading]]
-- [[Cook-Torrence]]
-- [[Ward]]
+process of determining the color of a pixel
+
+Physical factors that are considered in the [[lighting calculation]] to reach the result are [[light sources]], reflection, refraction, and [[attenuation]].
+
+Shading calculations are done via a [[light model]].
+
+Surface color, surface normal, are surface reflection are parameters that change the color on a surface.

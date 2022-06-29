@@ -2,10 +2,10 @@
 id: d9kv72twfjgghmgc5wtj18w
 title: systems development life cycle (SDLC)
 desc: ''
-updated: 1654530813925
+updated: 1656536997955
 created: 1654530813925
 ---
-#paradigm #software-development 
+#software-development 
 
 # Project
 developing a new system by identifying, planning, organizing, and monitoring

@@ -2,7 +2,7 @@
 id: jzkt00q25djt3c3qyo6xmwx
 title: Light Model
 desc: ''
-updated: 1656468930156
+updated: 1656535909218
 created: 1654530813187
 ---
 #graphics
@@ -17,3 +17,10 @@ $$S_I = \text{light intensity}(\text{spec. reflection} * (\text{normal} \bullet 
 $$I = A_I + \Sigma (\text{light intensity})(D_I + S_I)$$
 
 Sum refers to more than one possible source.
+
+# Specific Models
+- [[Phong shading]]
+- [[Gourad shading]]
+- [[Flat shading]]
+- Cook-Torrence
+- Ward
