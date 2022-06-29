@@ -2,13 +2,14 @@
 id: r2416wizzdkeftx36vqssyq
 title: Pascal's triangle
 desc: ''
-updated: 1654530812116
+updated: 1656515105742
 created: 1654530812116
 ---
 #algorithms 
-#todo
+
 # Computation
 ## [[dynamic programming]]:
+Complexity is $\theta (n^2)$.
 ```
 for(int n=0; n<=Levels; n++)
 {
@@ -21,4 +22,4 @@ for(int n=0; n<=Levels; n++)
 	}
 }
 ```
-**Complexity**: $\theta (n^2)$
+

@@ -2,8 +2,9 @@
 id: 91mh42nc91036phhjjo7sdo
 title: Rigging
 desc: ''
-updated: 1654530813687
+updated: 1656517015218
 created: 1654530813687
 ---
-#graphics #method
-Skeltal structure defines human connections and ranges of motion.  Motion capture can be used to [[keyframe]]
+#graphics 
+
+skeletal structure defining human connections and ranges of motion

@@ -2,11 +2,14 @@
 id: czlv78m1a78zoti71bdondc
 title: Phong shading
 desc: ''
-updated: 1654530812137
+updated: 1656515178074
 created: 1654530812137
 ---
-#graphics #method
-calculate shade at each vertex and interpolate **normal**, then interpolate shade.  Eliminates mach bands in [[Gourad shading]]
+#graphics 
+
+Calculate shade at each vertex and interpolate normal, then interpolate shade.  
+
+This method eliminates the mach bands in [[Gourad shading]].
 # Reflection components
 $$I = A_I + D_I + S_I$$
 ## Ambient
@@ -30,4 +33,4 @@ $$S_I = L_I(S_R(N \bullet H)^{S_E})=$$
 $V$ viewing angle
 $$H = \frac{L_D + V}{2}$$
 
-**Note:** if a dot product is negative, set the associated intensity to zero ($\theta > 90^{\circ}$)
+Note that if a dot product is negative, set the associated intensity to zero ($\theta > 90^{\circ}$)

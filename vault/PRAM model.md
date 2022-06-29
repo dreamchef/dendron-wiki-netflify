@@ -1,17 +1,10 @@
 ---
 id: jou7upkn3k4qr0ygfvbsjtv
-title: PRAM model
+title: PRAM Model
 desc: ''
-updated: 1654530812105
+updated: 1656515604713
 created: 1654530812105
 ---
-#algorithms #paradigm #todo
+#algorithms
 
-stands for parallel random access memory
-'Flavors' exist for all four combinations [[Flynn's taxonomy]]
-
-# Model
-## Single-Program Multiple-Data
-different computers, common clock, shared memory, local caches
-## One address space
-must read-in from shared memory to local cache to operate on data 
+parallel random access memory model that gives solutions for all four combinations in [[Flynn's taxonomy]]

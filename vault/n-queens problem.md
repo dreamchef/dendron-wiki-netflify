@@ -2,16 +2,16 @@
 id: 9zza7imwbc6ibwoqxkjwrnx
 title: N Queens Problem
 desc: ''
-updated: 1654530813402
+updated: 1656513033817
 created: 1654530813402
 ---
 #algorithms
-Place n queens on an n by n chess board so that no two queens threaten eachother 
-![n queens problem](http://mnemstudio.org/ai/ga/images/nqueens1.gif)
+
+Place n queens on an n by n chess board so that no two queens threaten eachother.
 # Solution
-## Exhaustive approach: 
-**Complexity**: $O(n^n)$
+Complexity of an exhaustive approach is $O(n^n)$.
 ## [[backtracking]]:
+Complexity is $O(nlog_4n)$.
 ### Psuedocode
 ```
 void queens (index i)
@@ -27,6 +27,4 @@ void queens (index i)
 			}
 }
 ```
-**Complexity**: $O(nlog_4n)$
-### Implementation
-- Compare col and row diffs to determine diagonal conflicts
+When implementing this, compare column and row differences to determine diagonal conflicts.
