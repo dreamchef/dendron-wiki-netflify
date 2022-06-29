@@ -2,17 +2,12 @@
 id: n2iwujj5ljw5vbq3e3tnsbg
 title: Javascript
 desc: ''
-updated: 1654530811937
+updated: 1656468650577
 created: 1654530811937
 ---
-#software-development #language 
+#software-development
+an event-driven language where code is run single-threaded
 
-event-driven language and its code is run single-threaded (can only run one thing at a time).
-
-# Features
-- callback function: 
-
-# Methods
 | Command | Function| Modifiers | Meanings |
 |---|---|---|---|
 |`document.write`|write html to webpage | | |

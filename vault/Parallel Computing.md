@@ -2,11 +2,11 @@
 id: 05uk5ipdykg5ebklzr10rds
 title: Parallel Computing
 desc: ''
-updated: 1654530812110
+updated: 1656470224795
 created: 1654530812110
 ---
-#algorithms #paradigm 
-# Patterns
+#algorithms  
+# Setups
 - [[MapReduce]]
 - [[Parallel Prefix]]
 - [[Master-Workers]]

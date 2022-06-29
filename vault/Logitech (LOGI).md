@@ -2,12 +2,15 @@
 id: s06bk0o04n6qs7udigtj0l0
 title: Logitech (LOGI)
 desc: ''
-updated: 1654530812000
+updated: 1656469651628
 created: 1654530812000
 ---
 #enterprise
 
-Logitech, Inc. designs, manufactures, and markets cordless products. The Company offers audio and video products, webcams, mice, trackballs, keyboards, speakers, headsets, interactive gaming devices, digital pens, lapdesks, and universal remote controls. Logitech distributes their products internationally. (Bloomberg)
+designs, manufactures, and markets cordless products internationally 
+
+The company offers audio and video products, webcams, mice, trackballs, keyboards, speakers, headsets, interactive gaming devices, digital pens, lapdesks, and universal remote controls.
+
 # Listings
 ## Marketing Intern, Gaming
 ### Contribution

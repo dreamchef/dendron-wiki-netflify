@@ -2,19 +2,18 @@
 id: bvlesp0t6g22naqhvbhu73y
 title: Kruskal's algorithm
 desc: ''
-updated: 1654530811954
+updated: 1656468814375
 created: 1654530811954
 ---
 #algorithms #combinatorics 
-Given a connected graph, gives a  minimum [[spanning tree]]
-**Complexity**: $O(e \log e)$
-## Psuedocode
-Inputs: 
- - $n \geq 2$ number of vertices
- - m, number of edges
- - set of edges with weights, E
 
-Output: F, set of edges in MST
+given a connected graph, finds a  minimum [[spanning tree]]
+
+Complexity is $O(e \log e)$.
+# Psuedocode
+*Inputs:* $n \geq 2$ number of vertices,  $m$ number of edges and set $E$ of edges with weights
+
+*Output:* F, set of edges in MST
 ```
 void kruskal (int n, int m, edge E[], edge& F[])
 {
@@ -39,8 +38,9 @@ void kruskal (int n, int m, edge E[], edge& F[])
 ```
 
 ## Steps
-Input: a network G on n > 1 vertices
-Output: a set of edges defining a minimum spanning tree of G or the message that G is disconnected
+*Input:* a network G on n > 1 vertices
+
+*Output:* a set of edges defining a minimum spanning tree of G or the message that G is disconnected
 
 1. Arrange edges in nondecreasing queue
 2. Initialize T (set of edges of MST)

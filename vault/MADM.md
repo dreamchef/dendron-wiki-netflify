@@ -2,18 +2,21 @@
 id: mzh0t84dena4jo0qm63t9gf
 title: MADM
 desc: ''
-updated: 1654530812024
+updated: 1656470353413
 created: 1654530812024
 ---
 #quantitative-analysis 
-# Method
+
+a method in quantative analysis for decision-making
 1. ID goals and objectives
 2. Decompose into attributes
 3. Map each measure (raw data) onto common value scale using [[value function]]
 4. Determine Total Value of first alternative by multiplying each measure's value by the global weight of its corresponding attribute.  Repeat for each alternative.
 5. Perform [[sensitivity analysis]]
 6. perform [[cost-benefit analysis]]
-# Hierarchy structure
+
+This process is performed on a designed hierarchical structure.
+# Hierarchy Structure
 ## Prescriptive level
 Weights totaling 100% are assigned to each item based on outside methods.
 ## Descriptive level (specific attributes)

@@ -2,15 +2,17 @@
 id: pgnanifpq5erdinco3v3dxm
 title: Perfect matching
 desc: ''
-updated: 1654530812128
+updated: 1656469958616
 created: 1654530812128
 ---
-#combinatorics  #definition
-Every vertex is saturated
+#combinatorics  
 
-# Algorithm
-** Input **: A graph G with 2n verticse and each vertex having $\geq$ n.
-** Output **: [[Perfect matching]] of G
+a matching in which every vertex is saturated
+
+# Solution
+*Input*: A graph G with 2n verticse and each vertex having $\geq$ n.
+
+*Output*: [[Perfect matching]] of G
 
 ```
 M = null

@@ -2,7 +2,7 @@
 id: hb614gflqsl5laf2mpsn5mr
 title: Converge
 desc: ''
-updated: 1656448635725
+updated: 1656469226906
 created: 1654530812703
 ---
 #analysis #definition 
@@ -20,3 +20,8 @@ created: 1654530812703
 - [[absolute convergence test]]
 - [[convergence of alternating series]]
 - [[convergence of geometric series]]
+
+# Proof Using [[Limit]] Definition
+Letting $\epsilon > 0$ be arbitrary, demonstrate a choice for $A \in \mathbb{N}$. Then show that $N$ actually works.
+
+Assume $n \geq N$ and with N well chosen, derive the inequality $|x_n - x| < \epsilon$.
